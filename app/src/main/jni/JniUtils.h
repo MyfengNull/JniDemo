@@ -7,7 +7,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-/*
+/*使用javah 生成的.h文件jclass 改成jobject
  * Class:     com_jnidemo_JniUtils
  * Method:    getSignature
  * Signature: (Ljava/lang/Object;)Ljava/lang/String;
